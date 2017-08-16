@@ -46,7 +46,7 @@ leituras adicionais para dar suporte ao entendimento do treinamento
 
 exercicios para validar o aprendizado:
 
-
+- [Day 1](https://github.com/thiagolioy/TestsTrainning/exercises/DAY1.md)
 
 
 ## Installation
